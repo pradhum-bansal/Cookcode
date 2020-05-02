@@ -2,7 +2,7 @@ package Codechef;
 
 import java.util.Arrays;
 import java.util.Scanner;
-class Blind {
+class Circle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t =sc.nextInt();
